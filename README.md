@@ -1,4 +1,4 @@
-# FiveWalnut: 3D Modeling & Game Development Portfolio
+# 3D Modeling & Game Development Portfolio
 
 This repository showcases my professional and personal work in 3D modeling, level design, and game development under the creative alias "FiveWalnut."
 
